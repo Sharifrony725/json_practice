@@ -1,42 +1,48 @@
 {
-    "students" : [
-
-        {
-            "name" : "Shariful Islam",
-            "middleName" : "null",
-            "age" : 23,
-            "cgpa" : 3.00,
-            "isRegistered" : "true",
-            "language" : ["Bengali","English","Hindi"],
-            "friends" : [
-             {
-                "name" : "Sharif",
-                "age" : 22
-            },
-            {
-                "name" : "Rony",
-                "age" : 22
-            }
+    "students": [
+      {
+        "name": "Shariful Islam",
+        "middleName": "null",
+        "age": 23,
+        "cgpa": 3,
+        "isRegistered": "true",
+        "language": [
+          "Bengali",
+          "English",
+          "Hindi"
+        ],
+        "friends": [
+          {
+            "name": "Sharif",
+            "age": 22
+          },
+          {
+            "name": "Rony",
+            "age": 22
+          }
         ]
-        },
-        {
-            "name" : "Ariful Islam",
-            "middleName" : "null",
-            "age" : 23,
-            "cgpa" : 3.00,
-            "isRegistered" : "true",
-            "language" : ["Bengali","English","Hindi"],
-            "friends" :[
-             {
-                "name" : "arif",
-                "age" : 22
-            },
-            {
-                "name" : "karim",
-                "age" : 22
-            }
+      },
+      {
+        "name": "Ariful Islam",
+        "middleName": "null",
+        "age": 23,
+        "cgpa": 3,
+        "isRegistered": "true",
+        "language": [
+          "Bengali",
+          "English",
+          "Hindi"
+        ],
+        "friends": [
+          {
+            "name": "arif",
+            "age": 22
+          },
+          {
+            "name": "karim",
+            "age": 22
+          }
         ]
-        }
-    
+      }
     ]
-}
+  }

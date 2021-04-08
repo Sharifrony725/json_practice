@@ -1,12 +1,12 @@
 {
-"friends" : [
-    {
-        "name" : "Sharif",
-        "age" : 22
-    },
-    {
-    "name" : "Rony",
-    "Age" : 23
-    }
- ]
-} 
+    "friends": [
+      {
+        "name": "Sharif",
+        "age": 22
+      },
+      {
+        "name": "Rony",
+        "Age": 23
+      }
+    ]
+  }
